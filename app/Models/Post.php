@@ -13,4 +13,4 @@ class Post extends Model
         // για να μην γινεται μπερδεμα με τα paths ενας τροπος ειναι αυτος του απευθειας \App\User
     }
     
-}
+}  // this gets an error that class user is not found but does exists in the same directory 
